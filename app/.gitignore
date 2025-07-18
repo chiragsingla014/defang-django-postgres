@@ -133,3 +133,18 @@ cython_debug/
 
 # Ignore the static files
 staticfiles/
+
+
+
+healthcare_backend/.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+
+.vscode/
+.idea/
